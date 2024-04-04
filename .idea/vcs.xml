@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/.." vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../91E" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../ASSESSMENT" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../Guti/ WEBCLASS" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../KotlinProject" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../MPESAINTERGRATION/MpesaIntegration" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../bootdjango" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../django/Django_main" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../django/Djangoproject_main2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../djangomidjinja" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../jinjatemplating" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../kayole/mpesaapiproject" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../kayole/myproject" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../kotlinmorn" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../morning_python/pythonProject" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../restaurant-website" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../shakesbootstrap" vcs="Git" />
+  </component>
+</project>
